@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication-Test", "Authentication-Test\Authentication-Test.csproj", "{81827AA3-D36D-4EB3-BA3C-83CFABF4DE64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C906ED4-5BD0-4608-B888-56B5FD4621FC}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.AspNetCore.Authentication.DingTalk", "Microsoft.AspNetCore.Authentication.DingTalk\Microsoft.AspNetCore.Authentication.DingTalk.csproj", "{6256460E-1311-4DBA-8ED6-0A3283C4EFC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.AspNetCore.Authentication.WXWork", "Microsoft.AspNetCore.Authentication.WXWork\Microsoft.AspNetCore.Authentication.WXWork.csproj", "{9EAE387D-5FFB-4F05-98E2-0B039543A0B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.AspNetCore.Authentication.QQ", "Microsoft.AspNetCore.Authentication.QQ\Microsoft.AspNetCore.Authentication.QQ.csproj", "{C131E4CB-1BEB-4C44-B6EC-2A00D922C53D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.AspNetCore.Authentication.Weixin", "Microsoft.AspNetCore.Authentication.Weixin\Microsoft.AspNetCore.Authentication.Weixin.csproj", "{C1F16328-9653-4126-892D-357052164E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81827AA3-D36D-4EB3-BA3C-83CFABF4DE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81827AA3-D36D-4EB3-BA3C-83CFABF4DE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81827AA3-D36D-4EB3-BA3C-83CFABF4DE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81827AA3-D36D-4EB3-BA3C-83CFABF4DE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6256460E-1311-4DBA-8ED6-0A3283C4EFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6256460E-1311-4DBA-8ED6-0A3283C4EFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6256460E-1311-4DBA-8ED6-0A3283C4EFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6256460E-1311-4DBA-8ED6-0A3283C4EFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAE387D-5FFB-4F05-98E2-0B039543A0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAE387D-5FFB-4F05-98E2-0B039543A0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAE387D-5FFB-4F05-98E2-0B039543A0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAE387D-5FFB-4F05-98E2-0B039543A0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C131E4CB-1BEB-4C44-B6EC-2A00D922C53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C131E4CB-1BEB-4C44-B6EC-2A00D922C53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C131E4CB-1BEB-4C44-B6EC-2A00D922C53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C131E4CB-1BEB-4C44-B6EC-2A00D922C53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F16328-9653-4126-892D-357052164E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F16328-9653-4126-892D-357052164E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F16328-9653-4126-892D-357052164E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F16328-9653-4126-892D-357052164E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF5B1E7-255F-41AE-806A-F07BAE66094C}
+	EndGlobalSection
+EndGlobal

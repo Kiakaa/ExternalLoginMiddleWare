@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>阿里钉钉.net core第三方登录中间件。</Description>
+    <PackageProjectUrl>https://github.com/Kiakaa/ExternalLoginMiddleWare</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Kiakaa/ExternalLoginMiddleWare</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OAuth" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
